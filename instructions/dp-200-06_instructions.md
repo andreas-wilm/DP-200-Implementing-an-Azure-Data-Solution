@@ -24,7 +24,7 @@ After completing this lab, you will be able to:
   
 As part of the digital transformation project, you have been tasked by the CIO to help the customer services departments identify fraudulent calls. Over the last few years the customer services departments have observed an increase in calls from fraudulent customer who are asking for support for bikes that are no longer in warranty, or bikes that have not even been purchased at AdventureWorks. 
 
-The department are currently relying on the experience of customer services agents to identify this. As a result, they would like to implement a system that can help the agents track in real-time who could be making a fradulent claim.
+The department are currently relying on the experience of customer services agents to identify this. As a result, they would like to implement a system that can help the agents track in real-time who could be making a fraudulent claim.
 
 At the end of this lad, you will have:
 
@@ -104,7 +104,7 @@ The main tasks for this exercise are as follows:
 
 1. In the **xx-phoneanalysis-ehn** screen, click on **+ Event Hubs**.
 
-1. Provide the name **xx-phoneanalysis-eh**, leave the other settings to thier default values and then select **Create**.
+1. Provide the name **xx-phoneanalysis-eh**, leave the other settings to there default values and then select **Create**.
 
     ![Creating an Event Hub in Azure portal](Linked_Image_Files/M06-E02-T02-img01.png)
 
@@ -191,7 +191,7 @@ After a few seconds, the app starts displaying phone call records on the screen 
 
 1. Minimize the command prompt window. 
 
-> **Result**: After you completed this exercise, you have conmfigured an application to generate data to minimic phone calls recieved by a call center.
+> **Result**: After you completed this exercise, you have configured an application to generate data to mimic phone calls received by a call center.
 
 ## Exercise 4: Processing Data with Stream Analytics Jobs
 
